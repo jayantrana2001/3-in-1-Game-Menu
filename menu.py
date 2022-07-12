@@ -1,9 +1,9 @@
 
 
 import turtle
-from main import snake
-from main2 import pong
-from main4 import flappybird
+from snakegame import snake
+from ponggame import pong
+from flappybird import flappybird
 
 wn = turtle.Screen()
 wn.bgcolor("purple")
