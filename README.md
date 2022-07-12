@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/jayantrana2001/CollegeTalks"><img src="https://e7.pngegg.com/pngimages/177/88/png-clipart-arcade-classics-golden-age-of-arcade-video-games-sega-rally-championship-hyper-street-fighter-ii-arcade-game-arcade-classic-logo-video-game.png" width="150"></a>
+  <a href="https://github.com/jayantrana2001/Classic-Arcade-Menu"><img src="https://i.ytimg.com/vi/AVhMSBqDl44/hqdefault.jpg" width="150"></a>
   <br>
   Classic Arcade Menu
 </h1>
