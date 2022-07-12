@@ -9,6 +9,10 @@ Pong , Snake & Flappy Bird in Python using Turtle Graphics. <br />
 
 
 ## Demo
+![image](https://user-images.githubusercontent.com/70154883/178577369-a02acbf6-f6f7-4f7b-8ab8-dd57c20d6088.png)
+![image](https://user-images.githubusercontent.com/70154883/178577449-80024c3e-96a2-4cd9-9c3d-13578a79a6c5.png)
+![image](https://user-images.githubusercontent.com/70154883/178577479-53800553-bfd2-4261-8fe9-6b7f34628457.png)
+![image](https://user-images.githubusercontent.com/70154883/178577502-68f8de59-1a20-4cc9-b22c-8f9dbac9ecda.png)
 
 
 ## Run the app
