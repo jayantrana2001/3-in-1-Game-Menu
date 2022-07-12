@@ -4,28 +4,15 @@
   Classic Arcade Menu
 </h1>
 
-A Responsive platform for College students to post Blogs, share their Interview or Internship Experiences and allows Admins to put out Notices for Events / Fests / Job Openings / Competitions <br />
-<br> Technologies Used : HTML , CSS , Bootstrap , Javascript , Node.JS , Express , MongoDB </br>
-
-## Features
-* Includes Registration & Login 
-* Creating a Blog/Notice/Interview Experience
-* Likes & Dislikes on posts
-* An efficient Search Bar to look up for any type of posts
+Classic Arcade Menu is a Gaming window which provides the platform to play any of the 3 famous Arcade games i.e.
+Pong , Snake & Flappy Bird in Python using Turtle Graphics. <br />
 
 
 ## Demo
 
 
-
-## Install dependencies
-`npm install`
-
 ## Run the app
-`npm start`
-
-## 🛠 Build for production
-`npm run build`
+Run the menu.py file to get a Game Menu from which you can select & play any of the 3 Arcade games.
 
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
