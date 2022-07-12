@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/jayantrana2001/Classic-Arcade-Menu"><img src="https://i.ytimg.com/vi/AVhMSBqDl44/hqdefault.jpg" width="150"></a>
+  <a href="https://github.com/jayantrana2001/Classic-Arcade-Menu"><img src="https://i.ytimg.com/vi/AVhMSBqDl44/hqdefault.jpg" width="200"></a>
   <br>
   Classic Arcade Menu
 </h1>
